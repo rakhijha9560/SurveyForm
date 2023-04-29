@@ -1,0 +1,199 @@
+body{
+  background-color: #38387e;
+    font-family: sans-serif;
+    margin: 0; 
+    font-size: 14px;
+     width: 55%;
+    height: 100vh;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  form {
+   padding-top: 21px;
+   padding-bottom: 21px;
+   padding-left: 15px;
+   padding-right: 15px;
+   background-color: #020434;
+  margin-top: 12px;
+  margin-bottom: 14px;
+  margin-left: 30px;
+  margin-right: 30px;
+  border-radius: 3px
+  }
+  
+   
+   h1 {
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    margin-top: 44px;
+    margin-bottom: 6px;
+    padding: 1px;
+   }
+  
+   .description-text {
+     color: grey;
+     text-align: center;
+     font-size: 23px;
+    margin-top: 4px;
+    margin-bottom: 30px;
+    padding: 1px;
+    font-style: italic;
+   }
+  
+  .form-group{
+  margin-bottom: 4px;
+  }
+  
+  .name-label{
+    display: block;
+    margin-left: 25px;
+    margin-bottom: 12px;
+    color: white;
+    font-size: 20px;
+    margin-top: 25px;
+  }
+  
+    .email-label{
+      display: block;
+      margin-left: 25px;
+      margin-bottom: 12px;
+    color: white;
+    font-size: 20px;
+    margin-top: 7px;
+    }
+  
+  .age-label{
+    display: block;
+    margin-left: 25px;
+    margin-bottom: 12px;
+    color: white;
+    font-size: 20px;
+    margin-top: 7px;
+  }
+  
+  .curr-role-option{
+    display: block;
+    margin-left: 25px;
+    margin-bottom: 12px;
+    color: white;
+    font-size: 20px;
+    margin-top: 7px;
+  }
+  
+   .radio-container{
+   margin-left: 25px;
+    margin-bottom: 12px;
+    color: white;
+    font-size: 20px;
+  } 
+
+   
+  .fav-feature{
+    padding: 2px;
+    margin: 1px;
+    color: white;
+    font-size: 20px;
+  }
+ 
+  .input-checkbox{
+    margin-top: 9px;
+    margin-bottom: 10px;
+    margin-left: 25px;
+  }
+  
+  .comment-suggestion{
+    margin-top: 42px;
+    margin-bottom: 10px;
+   margin-left: 25px;
+  }
+  
+  
+  
+  .submit-button {
+    display: block;
+    width: 91%;
+    background-color: rgb(80, 185, 80);
+    text-align: center;
+    height: 42px;
+    color: white;
+    border: 1px;
+    border-radius: 2px;
+    margin-left: 25px;
+    margin-bottom: 45px;
+}
+  #name{
+    width: 92%;
+    height: 32px;
+    border: 1px solid white;
+    border-radius: 4px;
+    margin-left: 25px;
+    margin-right: 24px;
+    margin-bottom: 25px;
+  }
+  #email{
+    width: 92%;
+    height: 32px;
+    border: 1px solid white;
+    border-radius: 4px;
+    margin-left: 25px;
+    margin-right: 24px;
+    margin-bottom: 25px;
+  }
+  #number{
+    width: 92%;
+    height: 32px;
+    border: 1px solid white;
+    border-radius: 4px;
+    margin-left: 25px;
+    margin-right: 24px;
+    margin-bottom: 25px;
+  }
+  #dropdown{
+    width: 92%;
+    height: 35px;
+    border: 1px solid white;
+    border-radius: 4px;
+    margin-left: 25px;
+    margin-right: 24px;
+    margin-bottom: 10px;
+  }
+  #input-textarea{
+    width: 90%;
+    height: 100px;
+    border: 1px solid white;
+    border-radius: 1px;
+    margin-left: 25px;
+    margin-bottom: 35px;
+  }
+  #user-recommend-1{
+    margin-top: 0px;
+    margin-bottom: 3px;
+  }
+  #user-recommend-2{
+    margin-top: 15px;
+    margin-bottom: 15px;
+  }
+  #dropdown-2{
+    width: 92%;
+    height: 35px;
+    border: 1px solid white;
+    border-radius: 4px;
+    margin-left: 25px;
+    margin-right: 24px;
+    margin-bottom: 10px;
+  }
+  #select-feature{
+    margin-left: 25px;
+    margin-bottom: 12px;
+    margin-top: 30px;
+  }
+  #recommendation{
+    margin-top: 20px;
+   margin-bottom: 12px;
+  }
+  #improvement{
+    margin-left: 25px;
+    margin-bottom: 12px
+  }
+
